@@ -1,2 +1,2 @@
 # self-web
-himework
+homework
